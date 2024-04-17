@@ -2,6 +2,8 @@
 
 ### Autoforge 0.2.14
 
+ <img src="https://staticdelivery.nexusmods.com/mods/6305/images/5/5-1713226153-607442393.png" title="" alt="" width="">
+
 <br>
 
 > The purpose of this mod is to reconfigure all the colors for tiles as well as back wall tiles on the map, so it is easier to identify ore, machinery etc.
