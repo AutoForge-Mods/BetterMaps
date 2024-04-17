@@ -2,7 +2,7 @@
 
 ### Autoforge 0.2.14
 
- <img src="https://staticdelivery.nexusmods.com/mods/6305/images/5/5-1713226153-607442393.png" title="" alt="" width="">
+ <img src="https://i.imgur.com/GQlqYX9.png" title="" alt="" width="">
 
 <br>
 
